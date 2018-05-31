@@ -4,8 +4,11 @@ This respository aims to provide a caffe2 version in python of the work:
 
 - *Realtime Multi-Person Pose Estimation*. By Zhe Cao, Tomas Simon, Shih-En Wei, Yaser Sheikh. https://github.com/ZheC/Realtime_Multi-Person_Pose_Estimation
 
+## Contents
+1. [Installation](#installation)
+2. [Usage](#usage)
 
-# Installation
+## Installation
 
 This version needs caffe2, Opencv and scipy to work. Then clone this repository:
 
@@ -22,7 +25,7 @@ chmod +x get_model.sh
 
 This will populate the model folder.
 
-#Usage
+## Usage
 You can launch the Test provided:
 
 ```
