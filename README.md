@@ -11,10 +11,17 @@ This respository aims to provide a caffe2 version in python of the work:
 
 ## Installation
 
-This version needs caffe2, Opencv and scipy to work. Then clone this repository:
+This version needs caffe2, Opencv and scipy to work.The versions i have try are:
+- Opencv 3.4.1
+- Scipy 1.1.0
+- Sklearn 0.19.1
+- Numpy 1.14.3
+- OS Ubuntu 16.04
+
+Then clone this repository:
 
 ```
-git clone https://github.com/pazagra/SkeletonCaffe2'
+git clone https://github.com/pazagra/SkeletonCaffe2
 ```
 
 After that you need to download and convert the pretrained models:
